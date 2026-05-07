@@ -85,8 +85,10 @@ de diriger le tour de table:
 
 - [GEMSEO](https://gemseo.readthedocs.io/en/stable/): open-source.
   Optimisation multi-domaine.
-- VIMSEO: (partiellement open-source) permet la modélisation de
-  comportement matériau.
+- [VIMSEO](https://github.com/vimseo/vimseo): (partiellement
+  open-source): librairie qui supporte l'implémentation d'un process de
+  vérification, validation, et quantification d'incertitudes (VVUQ) pour
+  l'évaluation de la crédibilité des modèles de simulation.
 
 Utilisation des lois dans `Abaqus`, occasionnellement dans `FEnICS`.
 
@@ -308,8 +310,8 @@ Ponts vers `Abaqus` et potentiellement vers `Ansys`
 - [Bénédicte Reine](mailto:benedicte.reine@irt-saintexupery.com)
 - [Pierre Olivier Santacreu](mailto:pierre-olivier.santacreu@aperam.com)
 - [Pierre Emmanuel Léger](mailto:pierreemmanuel.leger@aperam.com)
-- [LONGUET Arnaud (SAFRAN AIRCRAFT ](mailto:arnaud.longuet@safrangroup.com)
-- [NAJEM Adam](mailto:adam.najem@ensam.eu)
+- [Arnaud Longuet(SAFRAN AIRCRAFT)](mailto:arnaud.longuet@safrangroup.com)
+- [Adam Najem](mailto:adam.najem@ensam.eu)
 - [Henry Proudhon](mailto:henry.proudhon@minesparis.psl.eu)
 - [Aldo Marano](mailto:aldo.marano@onera.fr)
 - [Xavier Boyat](mailto:xavier.boyat@aperam.com)
@@ -419,7 +421,7 @@ Jérémy Bleyer, Yves Chemisky, Marius Duvillard
 
 #### Porteurs potentiels
 
-Frédéric Péralès, Basile Marchand, Thomas Helfer, Charles Toulemonde
+Frédéric Pérales, Basile Marchand, Thomas Helfer, Charles Toulemonde
 
 #### Thématiques
 
@@ -428,7 +430,7 @@ Frédéric Péralès, Basile Marchand, Thomas Helfer, Charles Toulemonde
 - Base de données
 - Diffusion des outils
 
-#### Présentations potentiels
+#### Présentations potentielles
 
 - Présentation du guide 28 par l'ASNR
 - Présentation des outils développés par le CEA/EDF et Framatome autour
@@ -481,5 +483,5 @@ Frédéric Péralès, Basile Marchand, Thomas Helfer, Charles Toulemonde
 - `A-Set`
 - `Abaqus`
 - `Ansys`
-- `X-Per`
+- `XPER`
 -->
